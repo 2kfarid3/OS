@@ -60,7 +60,7 @@ python3 archextract.py -i archive_le.hex -o output_le -v 1
 - Python 3.6+
 - cryptography module:
 ```bash
-pip3 install cryptography
+sudo apt install python3-cryptography
 ```
 
 ---
